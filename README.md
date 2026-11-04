@@ -26,4 +26,11 @@ Antivirus results are provided for transparency and do not guarantee that softwa
 ## Developer
 **KoroshSF**
 
-Free to use. Voluntary donations will help support future development.
+## ❤️ Support Development
+
+FocusGuard and SleepGuard are free to use.
+
+If you find them helpful, you can support future
+development with a voluntary cryptocurrency donation.
+
+[❤️ Donate to KoroshSF](./DONATE.md)
