@@ -10,8 +10,13 @@ SleepGuard helps users maintain a consistent sleep schedule by automatically shu
 - Password-protected settings
 - Configurable startup grace period
 
-## Download
-The Windows executable will be available in the [Releases](https://github.com/koroshictstudent/SleepGuard/releases) section.
+## 📥 Download
+
+**[Download SleepGuard v2.4 for Windows](https://github.com/koroshictstudent/SleepGuard/releases/download/v2.4.0/SleepGuard.exe)**
+
+[View all releases](https://github.com/koroshictstudent/SleepGuard/releases)
+
+Free to download and use.
 
 ## 🎬 Product Overview Videos
 
