@@ -13,6 +13,15 @@ SleepGuard helps users maintain a consistent sleep schedule by automatically shu
 ## Download
 The Windows executable will be available in the [Releases](https://github.com/koroshictstudent/SleepGuard/releases) section.
 
+## 🎬 Product Overview Videos
+
+Watch a short introduction to SleepGuard and its features:
+
+- 🇬🇧 [Watch in English](https://youtu.be/YS5A9fiF4Aw)
+- 🇮🇷 [تماشای معرفی فارسی](https://youtu.be/ca6eCvj0J6g)
+
+These videos introduce the app's features; they are not installation tutorials.
+
 ## Important Information
 SleepGuard can automatically shut down your computer. Always save your work and carefully review your configured schedule.
 
