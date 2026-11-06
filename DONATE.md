@@ -1,4 +1,4 @@
-# Support KoroshSF ❤️
+# Support KoroshICTStudent ❤️
 
 Thank you for using these free applications.
 
@@ -76,6 +76,6 @@ Scan the QR code below:
 ---
 
 ## Developer
-**KoroshSF**
+**KoroshICTStudent**
 
 All donations are voluntary and help support maintenance and future development.
